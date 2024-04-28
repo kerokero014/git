@@ -19,4 +19,4 @@ This is a first project using python and github in the project. The project will
 
 
 * [Youtube](https://youtu.be/11oZe0CKPGA)
-* [Python Tutorial](https://www.geeksforgeeks.org/python-programming-language/)
+* [Online Python Tutorials](https://www.geeksforgeeks.org/python-programming-language/)
