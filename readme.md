@@ -17,6 +17,6 @@ This is a first project using python and github in the project. The project will
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+
+* [Youtube](https://youtu.be/11oZe0CKPGA)
+* [Python Tutorial](https://www.geeksforgeeks.org/python-programming-language/)
